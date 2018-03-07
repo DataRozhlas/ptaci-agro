@@ -34,7 +34,7 @@ Podobná opatření ale fungují pouze u větších zvířat, například [chř�
 
 V obdobné situaci je i [čejka chocholatá](https://cs.wikipedia.org/wiki/%C4%8Cejka_chocholat%C3%A1), jejíž počty jsou nyní na desetině stavu před 35 lety.
 
-<embed>![početnost čejky chocholaté dle JPSP](http://jpsp.birds.cz/taxon_index.php?taxon=487)</embed>
+<embed>![početnost čejky chocholaté dle JPSP](https://d3j9yv90yhtw2y.cloudfront.net/taxon_index.php?taxon=487)</embed>
 
 Výkon a rychlost zemědělských strojů zemědělce motivuje, aby pracovali na co největších polích: Zastavováním práce a přejížděním mezi malými políčky pracovníci ztrácejí čas. Česko v tomhle ohledu vede, podle [statistiky Eurostatu](http://ec.europa.eu/eurostat/statistics-explained/index.php/Farm_structure_statistics) zde na jednu farmu připadá v průměru 133 hektarů půdy. Pro srovnání, celoevropský průměr je 16 hektarů.
 
@@ -48,7 +48,7 @@ _Rozdíl mezi krajinou v 50. letech a dnes, například v blízkosti vaší obce
 
 Úbytek keřů a neposekaných mezí pak pociťují opět velmi často ptáci, kteří přichází o úkryt a místo, kde mohou hnízdit. Proto dlouhodobě ubývají například [strnad obecný](https://cs.wikipedia.org/wiki/Strnad_obecn%C3%BD) nebo dříve naprosto běžný [skřivan polní](https://cs.wikipedia.org/wiki/Sk%C5%99ivan_poln%C3%AD). Početnost druhého jmenovaného se [od roku 1982 snížila o 40 %](http://jpsp.birds.cz/vysledky.php?taxon=685) a stále klesá. Ještě hůř je na tom [koroptev polní](https://cs.wikipedia.org/wiki/Koroptev_poln%C3%AD), její počty se za stejnou dobu zmenšily od 90 % a nyní [bojuje o přežití](http://www.koroptvicky.estranky.cz/).
 
-<embed>![početnost koroptve polní dle JPSP](http://jpsp.birds.cz/taxon_index.php?taxon=447)</embed>
+<embed>![početnost koroptve polní dle JPSP](https://d3j9yv90yhtw2y.cloudfront.net/taxon_index.php?taxon=447)</embed>
 
 ## Problém s žížalami
 
@@ -64,7 +64,7 @@ A z polí (a nejen odsud) mizí i hmyz. Na rozdíl od ptáků není tak dobře v
 
 Změny v krajině ale nemají jen poražené. Vydělávají na nich ti, kteří se plodinami živí, případně v nich najdou i úkryt. Z ptáků je to třeba [husa velká](https://cs.wikipedia.org/wiki/Husa_velk%C3%A1), její počty jsou dnes na šestinásobku stavu z přelomu tisíciletí.
 
-<embed>![početnost husy velké](http://jpsp.birds.cz/taxon_index.php?taxon=333)</embed>
+<embed>![početnost husy velké](https://d3j9yv90yhtw2y.cloudfront.net/taxon_index.php?taxon=333)</embed>
 
 Z rozsáhlých řepkových lánů pak profitují divoká prasata. "Divočák tam má klid, vodu i potravu. Navíc nejsou zachována políčka pro možné naháňky, takže divočáci v těchto polích nejsou vidět," [vysvětlil pro kolínský Deník](https://kolinsky.denik.cz/zpravy_region/divoka-prasata-jsou-premnozena-muze-za-to-kukurice-a-repka-20170309.html) předseda Okresního mysliveckého spolku Kutná Hora František Barták.
 
