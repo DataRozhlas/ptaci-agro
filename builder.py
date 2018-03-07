@@ -58,6 +58,11 @@ main = main.replace('</right>','</div></div></div></div>')
 # article content
 art['content'] = markdown.markdown(main)
 
+# new window for departing links
+art['content'] = art['content'].replace('a href="http', 'a rel="noopener noreferrer" target="_blank" href="http')
+
+# absolute path for relative links
+
 
 #read snowfall template
 if "noheader" in art['options']: 
