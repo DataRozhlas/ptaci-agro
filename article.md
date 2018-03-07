@@ -84,6 +84,8 @@ Nutno říct, že evropské orgány si problém uvědomují a chystají změnu [
 
 Tak razantní změna by se dotkla i některých členů vlády. Holding Agrofert, dříve patřící premiérovi v demisi Andreji Babišovi, vloni podle Politica získal 14 milionů euro (asi 355 milionů Kč). Současný ministr zemědělství [Jiří Milek](https://www.irozhlas.cz/zpravy-domov/novy-ministr-zemedelstvi-jiri-milek-koncern-usovsko-manazer-roku-profil-ministra_1712161300_mis) je zase spolumajitelem koncernu Úsovsko, ten jen v roce 2016 čerpal skrze Státní zemědělský intervenční fond dotace ve výši [přes 54 milionů korun](https://www.szif.cz/cs/seznam-prijemcu-dotaci?ji=1000026345&opatr=&year=2016&portalAction=detail).
 
-O tom, že dotování největších krajině neprospívá, hovoří i Asociace soukromého zemědělství České republiky. __citace__ Konečné slovo bude mít ale až Evropský parlament.
+O tom, že dotování největších krajině neprospívá, hovoří i Asociace soukromého zemědělství České republiky, podle kterého jsou velké lány ohrožené erozí a těžká technika půdu dále znehodnocuje. "Zásadním řešením je zvýšení pestrosti a členitosti krajiny a zmenšení nepřerušovaných půdních bloků," uvádí v tiskové zprávě. "Z našeho pohledu je zastropování jednoznačně v zájmu nejen zemědělství, ale i celého českého venkova a všech obyvatel," napsala serveru iROZHLAS tisková mluvčí asociace.
+
+Konečné slovo budou mít evropské orgány, stanovisko Komise by mělo přijít v polovině tohoto roku, tak rozhodne Evropský parlament.
 
 _Grafy početnosti pochází z [Jednotného programu sčítání ptáků](http://jpsp.birds.cz/), který organizuje [Česká společnost ornitologická](http://www.birdlife.cz/)._
