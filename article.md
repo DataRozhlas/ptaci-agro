@@ -5,7 +5,7 @@ published: "12. března 2018"
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/crex_crex_beachy_hea_180307-140928_cib.jpg?itok=D2rra6cg
 coverimg_note: "Chřástal polní (Crex crex), foto <a href='https://www.flickr.com/people/9919745@N03'>Ron Knight, Seaford, East Sussex</a>"
 styles: []
-libraries: [highcharts] #jquery, jquery-csv, d3, highcharts, datatables
+libraries: [highcharts, jquery] #jquery, jquery-csv, d3, highcharts, datatables
 options: [] #wide, noheader (, nopic)
 ---
 <left>
@@ -17,7 +17,7 @@ Proto je tzv. indikátor ptáků zemědělské krajiny používaný jako jeden z
 	</p>
 </left>
 
-Počet ptáků v zemědělské krajině klesl ve srovnání s rokem 1982 na 66 %, ptáků tedy [ubyla třetina](https://issar.cenia.cz/prehled-klicovych-indikatoru-podle-hlavnich-temat/priroda/indikator-beznych-druhu-ptaku/). Silně ubývají koroptev polní nebo linduška luční. Podle [zprávy](media/IPZK_2017.pdf) České společnosti ornitologické se „nejhorší dopad na evropskou avifaunu předpokládá v případě, že se bude zvyšovat intenzita zemědělství ve střední a východní Evropě“.
+Počet ptáků v zemědělské krajině klesl ve srovnání s rokem 1982 na 66 %, ptáků tedy [ubyla třetina](https://issar.cenia.cz/prehled-klicovych-indikatoru-podle-hlavnich-temat/priroda/indikator-beznych-druhu-ptaku/). Silně ubývají koroptev polní nebo linduška luční. Podle [zprávy](https://dev.datarozhlas.cz/ptaci-agro/media/IPZK_2017.pdf) České společnosti ornitologické se „nejhorší dopad na evropskou avifaunu předpokládá v případě, že se bude zvyšovat intenzita zemědělství ve střední a východní Evropě“.
 
 "Intenzifikace zemědělství, zejména výnos obilovin, dokáže sám o sobě vysvětlit 30 % změn v početnosti populací ptáků," píše v knize [Farming and Birds](https://www.nhbs.com/farming-and-birds-book) britský výzkumník Ian Newton. Dodává, že nejde o obilí jako takové, ale jeho větší výnosy jsou indikátor některých trendů, jako například většího využívání chemických prostředků.
 
@@ -96,9 +96,9 @@ _Ukazatel [běžných druhů ptáků](http://ec.europa.eu/eurostat/tgm/table.do?
 
 Naopak v celoevropském srovnání jsou v případě Česka vidět 90. léta, kdy se transformující zemědělství potýkalo s problémy. "Množství účinných látek pokleslo," říká k tomu Václav Zámečník, který se ochranou ptáků zemědělské krajiny zabývá v České společnosti ornitologické. V roce 1985 připadalo na jeden hektar v průměru 2,5 kg chemie, o pět let později jen 2 kilogramy.
 
-<embed>![množství chemických látek v zemědělství](media/chem_latky_cr.jpg)</embed>
+<embed>![množství chemických látek v zemědělství](https://dev.datarozhlas.cz/ptaci-agro/media/chem_latky_cr.jpg)</embed>
 
-Zdroj: _[Metodická příručka pro praktickou ochranu ptáků v zemědělské krajině](media/prirucka_ochrany_ptaku.pdf): metodika AOPK ČR._ Praha: Agentura ochrany přírody a krajiny ČR, 2013, s. 10. ISBN 978-80-87457-81-8.
+Zdroj: _[Metodická příručka pro praktickou ochranu ptáků v zemědělské krajině](https://dev.datarozhlas.cz/ptaci-agro/media/prirucka_ochrany_ptaku.pdf): metodika AOPK ČR._ Praha: Agentura ochrany přírody a krajiny ČR, 2013, s. 10. ISBN 978-80-87457-81-8.
 
 Navíc po pádu režimu nebyly vyjasněné majetkové vztahy. "Chvilku se nevědělo, čí pole jsou a některá začala zarůstat," na což podle ornitologa některé druhy ptáků rychle zareagovaly.
 
