@@ -40,9 +40,7 @@ V obdobné situaci je i [čejka chocholatá](https://cs.wikipedia.org/wiki/%C4%8
 
 Výkon a rychlost zemědělských strojů zemědělce motivuje, aby pracovali na co největších polích: Zastavováním práce a přejížděním mezi malými políčky pracovníci ztrácejí čas. Česko v tomhle ohledu vede, podle [statistiky Eurostatu](http://ec.europa.eu/eurostat/statistics-explained/index.php/Farm_structure_statistics) zde na jednu farmu připadá v průměru 133 hektarů půdy. Pro srovnání, celoevropský průměr je 16 hektarů.
 
-Podle srovnání evropského statistického úřadu Eurostat má Česko velkou průměrnou rozlohu půdního bloku i navzdory faktu, že je zde země značně členitá. Přes 50 % zemědělské půdy je tak ohroženo vodní erozí.
-
-__GRAF 15.2.2 Průměrná velikost bloku orné půdy https://mozaika.udrzitelne-mesto.cz/cz/indikatory/15-2-2__
+Podle [srovnání](http://ec.europa.eu/eurostat/statistics-explained/index.php/Farm_structure_statistics) evropského statistického úřadu Eurostat má Česko nejvyšší průměrnou rozlohu jedné farmy, jde o 130 hektarů. Pro srovnání, celoevropský průměr je 16 hektarů.
 
 _Rozdíl mezi krajinou v 50. letech a dnes, například v blízkosti vaší obce, si můžete prohlédnout na srovnávací mapě._
 

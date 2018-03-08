@@ -10,6 +10,6 @@ iframe {
     max-height: 80vh;
 }
 
-#index_eu {
+#index_eu, #velikost_pb {
     min-height: 370px;
 }

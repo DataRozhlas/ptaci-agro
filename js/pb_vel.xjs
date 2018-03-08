@@ -1,0 +1,78 @@
+(function() {
+    var pbs = [
+        ["menší než 1,00 ha",28818,29990,34445,38520,43051,53560,51798],
+        ["1,00-4,99 ha",78032,75700,78550,79381,82117,89624,89037],
+        ["5,00-9,99 ha",42403,41050,41620,41637,42355,44452,44691],
+        ["10,00-19,99 ha",36565,35365,35605,35387,35681,36408,36208],
+        ["20,00-49,99 ha",30014,29261,28916,28492,28333,28355,28037],
+        ["nad 50 ha",8527,8577,8315,8094,7834,7582,7506]
+    ];
+
+    var pbDataSeries = [];
+    pbs.forEach(function(line) {
+        pbDataSeries.push({
+            'name': line[0],
+            'data': line.slice(1)
+        })
+    });
+
+    Highcharts.chart('velikost_pb', {
+        credits: {
+            enabled: false
+        },
+        title: {
+            text: 'Velikost půdních bloků'
+        },
+        yAxis: {
+            title: {
+                text: 'počet PB v kategorii'
+            }
+        },
+        legend: {
+            layout: 'vertical',
+            align: 'right',
+            verticalAlign: 'middle'
+        },
+        colors: [
+            '#8dd3c7',
+            '#bebada',
+            '#fb8072',
+            '#80b1d3',
+            '#fdb462',
+            '#b3de69'
+        ],
+        plotOptions: {
+            line: {
+                marker: {
+                    enabled: false,
+                    radius: 3,
+                    symbol: 'circle'
+                }
+            },
+            series: {
+                label: {
+                    connectorAllowed: false
+                },
+                tooltip: {
+                    valueSuffix: ' půdních bloků'
+                },
+                pointStart: 2005
+            }
+        },
+        series: pbDataSeries,
+        responsive: {
+            rules: [{
+                condition: {
+                    maxWidth: 500
+                },
+                chartOptions: {
+                    legend: {
+                        layout: 'horizontal',
+                        align: 'center',
+                        verticalAlign: 'bottom'
+                    }
+                }
+            }]
+        }
+    });
+})
