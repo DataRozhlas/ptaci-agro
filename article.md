@@ -17,7 +17,7 @@ Proto je tzv. indikátor ptáků zemědělské krajiny používaný jako jeden z
 	</p>
 </left>
 
-Počet ptáků v zemědělské krajině klesl ve srovnání s rokem 1982 na 66 %, ptáků tedy [ubyla třetina](https://issar.cenia.cz/prehled-klicovych-indikatoru-podle-hlavnich-temat/priroda/indikator-beznych-druhu-ptaku/). Silně ubývají koroptev polní nebo linduška luční. Podle zprávy [link] České společnosti ornitologické se „nejhorší dopad na evropskou avifaunu předpokládá v případě, že se bude zvyšovat intenzita zemědělství ve střední a východní Evropě“. https://doi.org/10.1016/j.agee.2010.03.005
+Počet ptáků v zemědělské krajině klesl ve srovnání s rokem 1982 na 66 %, ptáků tedy [ubyla třetina](https://issar.cenia.cz/prehled-klicovych-indikatoru-podle-hlavnich-temat/priroda/indikator-beznych-druhu-ptaku/). Silně ubývají koroptev polní nebo linduška luční. Podle [zprávy](media/IPZK_2017.pdf) České společnosti ornitologické se „nejhorší dopad na evropskou avifaunu předpokládá v případě, že se bude zvyšovat intenzita zemědělství ve střední a východní Evropě“.
 
 "Intenzifikace zemědělství, zejména výnos obilovin, dokáže sám o sobě vysvětlit 30 % změn v početnosti populací ptáků," píše v knize [Farming and Birds](https://www.nhbs.com/farming-and-birds-book) britský výzkumník Ian Newton. Dodává, že nejde o obilí jako takové, ale jeho větší výnosy jsou indikátor některých trendů, jako například většího využívání chemických prostředků.
 
@@ -50,6 +50,12 @@ _Rozdíl mezi krajinou v 50. letech a dnes, například v blízkosti vaší obce
 
 <embed>![početnost koroptve polní dle JPSP](https://d3j9yv90yhtw2y.cloudfront.net/taxon_index.php?taxon=447)</embed>
 
+_Početnost koroptve polní podle [Jednotného programu sčítání ptáků](http://jpsp.birds.cz/)_
+
+Že je členitá krajina pro živočichy příznivější, pak potvrzuje i [čerstvě publikovaná studie](https://www.sciencedirect.com/science/article/pii/S1470160X18301456) týmu českých a zahraničních vědců. "Naše výsledky jasně demonstrují, že místa s menší rozlohou polí a vyšším zastoupením přirozených biotopů (jako jsou travnaté pásy, křovinaté koridory, louky) mají výrazně vyšší biodiverzitu. Dále jsme prokázali, že motýli představují důležité indikátory celkové druhové diverzity. Kde je vyšší diverzita motýlů, tam se daří i ostatním živočichům polní krajiny," napsal [na Facebooku](https://www.facebook.com/OchranaSycka/photos/a.1446572212323702.1073741830.1427287057585551/1953329528314632/?type=3) jeden z autorů, [Martin Šálek](http://www.ivb.cz/lide-martin-salek.html) z Ústavu biologie obratlovců Akademie věd ČR. "Zvýšením pestrosti zemědělské krajiny (např. snížením velikosti polních celků a zvýšením zastoupení přirozených stanovišť) může být cenným nástrojem pro zachování biodiverzity, ale i kvality půdy či boji proti škůdcům a suchu," dodává.
+
+<embed><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FOchranaSycka%2Fposts%2F1953329528314632&width=500" width="500" height="551" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe></embed>
+
 ## Problém s žížalami
 
 Kromě ptáků současný způsob hospodaření nepřeje ani bezobratlým, zejména žížalám a hmyzu. Zejména tyto dvě skupiny hrají v ptačím jídelníčku značnou roli. Žížaly jsou podstatné hlavně proto, že jsou k dispozici prakticky po celý rok (kromě období, kdy je země zmrzlá či výrazně vyschlá). V období od března do května, kdy jsou jiné zdroje potravy omezené, žížaly už vylézají k povrchu na dosah ptákům. Proto jsou na nich do značné míry závislí havranovití, kosi a drozdi, čejky, kulíci, nebo i puštíci a poštolky. Kromě ptáků se pak na žížaly specializují i ježci nebo krtci. A mají důvod: Na dlouhodobě udržovaných pastvinách může hustota žížal činit až 200-500 jedinců na metr čtvereční, jde tak o slušnou zásobárnu kalorií.
@@ -66,6 +72,8 @@ Změny v krajině ale nemají jen poražené. Vydělávají na nich ti, kteří 
 
 <embed>![početnost husy velké](https://d3j9yv90yhtw2y.cloudfront.net/taxon_index.php?taxon=333)</embed>
 
+_Početnost husy velké podle [Jednotného programu sčítání ptáků](http://jpsp.birds.cz/)_
+
 Z rozsáhlých řepkových lánů pak profitují divoká prasata. "Divočák tam má klid, vodu i potravu. Navíc nejsou zachována políčka pro možné naháňky, takže divočáci v těchto polích nejsou vidět," [vysvětlil pro kolínský Deník](https://kolinsky.denik.cz/zpravy_region/divoka-prasata-jsou-premnozena-muze-za-to-kukurice-a-repka-20170309.html) předseda Okresního mysliveckého spolku Kutná Hora František Barták.
 
 I navzdory pozitivním trendům u některých druhů (například káňatům [prospěl](http://jpsp.birds.cz/vysledky.php?taxon=398) zákaz některých jedů na hlodavce) je ale celková bilance záporná, ptáků (a pravděpodobně tedy i jiných druhů) v zemědělské krajině rychlým tempem ubývá.
@@ -76,16 +84,22 @@ Nejde ale jen o problém Česka, obdobné propady v počtu polních ptáků pozo
 
 __graf EU http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&pcode=tsdnr100&language=en&toolbox=data__
 
-Naopak v celoevropském srovnání jsou v případě Česka vidět 90. léta, kdy se transformující zemědělství potýkalo s problémy a jeho efektivita tedy krátkodobě poklesla. __DOZDROJOVAT__
+Naopak v celoevropském srovnání jsou v případě Česka vidět 90. léta, kdy se transformující zemědělství potýkalo s problémy. "Množství účinných látek pokleslo," říká k tomu Václav Zámečník, který se ochranou ptáků zemědělské krajiny zabývá v České společnosti ornitologické. V roce 1985 připadalo na jeden hektar v průměru 2,5 kg chemie, o pět let později jen 2 kilogramy.
 
-Nutno říct, že evropské orgány si problém uvědomují a chystají změnu [společné zemědělské politiky](https://cs.wikipedia.org/wiki/Spole%C4%8Dn%C3%A1_zem%C4%9Bd%C4%9Blsk%C3%A1_politika): Cílem je skrze dotace, které tvoří třetinu celého rozpočtu EU, podporovat zejména malé farmy a méně intenzivní formy zemědělství. Velké agrokolosy by tedy o část peněz přišly. 
+<embed>![množství chemických látek v zemědělství](media/chem_latky_cr.jpg)</embed>
 
-Český republika spolu se Slovenskem a některými regiony východního Německa se takovému kroku ale brání. [Podle serveru Politico](https://www.politico.eu/article/central-europes-big-farms-cry-foul-over-eu-commission-funding-cuts-phil-hogan/) by Bruselem chystané zastropování dotací na jednu farmu připravilo Česko o 43 % ze současných asi 1,2 miliardy Euro. 
+Zdroj: _[Metodická příručka pro praktickou ochranu ptáků v zemědělské krajině](media/prirucka_ochrany_ptaku.pdf): metodika AOPK ČR._ Praha: Agentura ochrany přírody a krajiny ČR, 2013, s. 10. ISBN 978-80-87457-81-8.
+
+Navíc po pádu režimu nebyly vyjasněné majetkové vztahy. "Chvilku se nevědělo, čí pole jsou a některá začala zarůstat," na což podle ornitologa některé druhy ptáků rychle zareagovaly.
+
+Naopak negativně se na populace ptáků dopadl vstup země do EU. "Nastoupily dotace," komentuje úbytek ptáků Zámečník. Podle něj tak získali farmáři prostředky na hnojiva a pesticidy, stejně jako si mohli dovolit výkonnější techniku. Navíc dříve často neobdělávali tu část pole, které byla podmáčená nebo jinak obtížně dostupná, což ptákům vyhovovalo. Tlak na evidenci a kontrola ze strany dotačních úřadů je ale donutil hospodařit na každém metru pozemků.
+
+Nutno říct, že evropské orgány si problém uvědomují a chystají změnu [společné zemědělské politiky](https://cs.wikipedia.org/wiki/Spole%C4%8Dn%C3%A1_zem%C4%9Bd%C4%9Blsk%C3%A1_politika): Podle návrhu evropského komisaře pro zemědělství [Phila Hoganag](https://ec.europa.eu/commission/commissioners/2014-2019/hogan_en) by dotace pro jednu farmu měly být zastropované částkou 60 resp 100 tisíc euro. Nově by tak dotace, které tvoří přibližně třetinu evropského rozpočtu (asi 59 miliard euro), měly podporovat zejména menší farmy. Naopak velké agrokolosy by o citelnou část peněz přišly. 
+
+Český republika spolu se Slovenskem a některými regiony východního Německa se takovému kroku ale brání. [Podle serveru Politico](https://www.politico.eu/article/central-europes-big-farms-cry-foul-over-eu-commission-funding-cuts-phil-hogan/) by Bruselem chystané zastropování dotací na jednu farmu připravilo Česko o 43 % ze současných asi 1,2 miliardy Euro.
 
 Tak razantní změna by se dotkla i některých členů vlády. Holding Agrofert, dříve patřící premiérovi v demisi Andreji Babišovi, vloni podle Politica získal 14 milionů euro (asi 355 milionů Kč). Současný ministr zemědělství [Jiří Milek](https://www.irozhlas.cz/zpravy-domov/novy-ministr-zemedelstvi-jiri-milek-koncern-usovsko-manazer-roku-profil-ministra_1712161300_mis) je zase spolumajitelem koncernu Úsovsko, ten jen v roce 2016 čerpal skrze Státní zemědělský intervenční fond dotace ve výši [přes 54 milionů korun](https://www.szif.cz/cs/seznam-prijemcu-dotaci?ji=1000026345&opatr=&year=2016&portalAction=detail).
 
 O tom, že dotování největších krajině neprospívá, hovoří i Asociace soukromého zemědělství České republiky, podle kterého jsou velké lány ohrožené erozí a těžká technika půdu dále znehodnocuje. "Zásadním řešením je zvýšení pestrosti a členitosti krajiny a zmenšení nepřerušovaných půdních bloků," uvádí v tiskové zprávě. "Z našeho pohledu je zastropování jednoznačně v zájmu nejen zemědělství, ale i celého českého venkova a všech obyvatel," napsala serveru iROZHLAS tisková mluvčí asociace.
 
-Konečné slovo budou mít evropské orgány, stanovisko Komise by mělo přijít v polovině tohoto roku, tak rozhodne Evropský parlament.
-
-_Grafy početnosti pochází z [Jednotného programu sčítání ptáků](http://jpsp.birds.cz/), který organizuje [Česká společnost ornitologická](http://www.birdlife.cz/)._
+Konečné slovo budou mít evropské orgány, stanovisko Komise by mělo přijít v polovině tohoto roku, pak rozhodne Evropský parlament. Nicméně už nyní přichází z Bruselu signály, že v reakci na kritiku chystaných opatření by jednotlivé státy mohly dostat volnější ruku v tom, jak s dotacemi na svém území naloží. V Česku by to pravděpodobně vedlo ke konzervaci současného stavu.
