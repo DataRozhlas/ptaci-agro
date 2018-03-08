@@ -5,7 +5,7 @@ published: "12. března 2018"
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/crex_crex_beachy_hea_180307-140928_cib.jpg?itok=D2rra6cg
 coverimg_note: "Chřástal polní (Crex crex), foto <a href='https://www.flickr.com/people/9919745@N03'>Ron Knight, Seaford, East Sussex</a>"
 styles: []
-libraries: [] #jquery, jquery-csv, d3, highcharts, datatables
+libraries: [highcharts] #jquery, jquery-csv, d3, highcharts, datatables
 options: [] #wide, noheader (, nopic)
 ---
 <left>
@@ -23,14 +23,16 @@ Počet ptáků v zemědělské krajině klesl ve srovnání s rokem 1982 na 66 %
 
 Důvodů je tedy pravděpodobně několik, ale obecně se dají shrnout jako efektivnější zemědělství. Lepší stroje a rychlejší stroje spolu s účinějšími chemickými prostředky postupně vytlačují z polí vše kromě pěstovaných plodin.
 
-## Větší je lepší
+## Větší není lepší
 
 Moderní sekačky, používané zemědělci třeba ke sklizni krmné vojtěšky nebo obilí, zvládnou sekat rychlostí přes 20 km/h, šířka žací lišty pak může být [až 12 metrů](http://www.deere.com/en_US/docs/html/brochures/publication.html?id=9557a838#12). Tak rychlému stroji s velkým dosahem těžko uteče zvíře, které se v poli schovává, často i s mláďaty. Právě případy posekaných srnek a zajíců vedly k petici [Stop sečení srnčat](http://www.stopsecenisrncat.cz/petice/), následně ministerstvo zemědělství spolu s Českou zemědělskou univerzitou spustilo portál [Senoseč](http://senosec.czu.cz/). Na něm zemědělci zveřejňují, kde a kdy budou sekat, a myslivci spolu s dobrovolníky zvěř před sečí vyženou.
 
 <!-- video sekačky od JD -->
-<embed><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/a86kmZypehA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></embed>
+<embed><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/a86kmZypehA?start=59&end=72" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></embed>
 
-Podobná opatření ale fungují pouze u větších zvířat, například [chřástal polní](https://cs.wikipedia.org/wiki/Ch%C5%99%C3%A1stal_poln%C3%AD) je na louce: Buďto zde má hnízdo, později pak samice při hledání potravy vodí mláďata mezi stonky rostlin. Při vyrušení se pak kuřata snaží schovat, rozhodně nikam daleko neutečou. A pokud je žací lišta dostatečně rychlá, nestihne to ani dospělá samice. Navíc se v posledních desetiletích tráva používá spíše k výrobě siláže než sena, louky se proto sečou již v červnu, kdy chřástali hnízdí. A jelikož časově nejúspornější je sekat od krajů do středu, sekačka obvykle nažene všechny ptáky do středu louky, kde je následně při posledním obratu zlikviduje.
+Podobná opatření ale fungují pouze u větších zvířat, například [chřástal polní](https://cs.wikipedia.org/wiki/Ch%C5%99%C3%A1stal_poln%C3%AD) je na louce: Buďto zde má hnízdo, později pak samice při hledání potravy vodí mláďata mezi stonky rostlin. Při vyrušení se pak kuřata snaží schovat, rozhodně nikam daleko neutečou. A pokud je žací lišta dostatečně rychlá, nestihne to ani dospělá samice. 
+
+Navíc se v posledních desetiletích tráva používá spíše k výrobě siláže než sena, louky se proto sečou již v červnu, kdy chřástali hnízdí. A jelikož časově nejúspornější je sekat od krajů do středu, sekačka obvykle nažene všechny ptáky do středu louky, kde je následně při posledním obratu zlikviduje.
 
 V obdobné situaci je i [čejka chocholatá](https://cs.wikipedia.org/wiki/%C4%8Cejka_chocholat%C3%A1), jejíž počty jsou nyní na desetině stavu před 35 lety.
 
@@ -52,17 +54,25 @@ _Rozdíl mezi krajinou v 50. letech a dnes, například v blízkosti vaší obce
 
 _Početnost koroptve polní podle [Jednotného programu sčítání ptáků](http://jpsp.birds.cz/)_
 
-Že je členitá krajina pro živočichy příznivější, pak potvrzuje i [čerstvě publikovaná studie](https://www.sciencedirect.com/science/article/pii/S1470160X18301456) týmu českých a zahraničních vědců. "Naše výsledky jasně demonstrují, že místa s menší rozlohou polí a vyšším zastoupením přirozených biotopů (jako jsou travnaté pásy, křovinaté koridory, louky) mají výrazně vyšší biodiverzitu. Dále jsme prokázali, že motýli představují důležité indikátory celkové druhové diverzity. Kde je vyšší diverzita motýlů, tam se daří i ostatním živočichům polní krajiny," napsal [na Facebooku](https://www.facebook.com/OchranaSycka/photos/a.1446572212323702.1073741830.1427287057585551/1953329528314632/?type=3) jeden z autorů, [Martin Šálek](http://www.ivb.cz/lide-martin-salek.html) z Ústavu biologie obratlovců Akademie věd ČR. "Zvýšením pestrosti zemědělské krajiny (např. snížením velikosti polních celků a zvýšením zastoupení přirozených stanovišť) může být cenným nástrojem pro zachování biodiverzity, ale i kvality půdy či boji proti škůdcům a suchu," dodává.
+Že je členitá krajina pro živočichy příznivější, pak potvrzuje i [čerstvě publikovaná studie](https://www.sciencedirect.com/science/article/pii/S1470160X18301456) týmu českých a zahraničních vědců. 
+
+"Naše výsledky jasně demonstrují, že místa s menší rozlohou polí a vyšším zastoupením přirozených biotopů (jako jsou travnaté pásy, křovinaté koridory, louky) mají výrazně vyšší biodiverzitu. Dále jsme prokázali, že motýli představují důležité indikátory celkové druhové diverzity. Kde je vyšší diverzita motýlů, tam se daří i ostatním živočichům polní krajiny," napsal [na Facebooku](https://www.facebook.com/OchranaSycka/photos/a.1446572212323702.1073741830.1427287057585551/1953329528314632/?type=3) jeden z autorů, [Martin Šálek](http://www.ivb.cz/lide-martin-salek.html) z Ústavu biologie obratlovců Akademie věd ČR. 
+
+"Zvýšením pestrosti zemědělské krajiny (např. snížením velikosti polních celků a zvýšením zastoupení přirozených stanovišť) může být cenným nástrojem pro zachování biodiverzity, ale i kvality půdy či boji proti škůdcům a suchu," dodává.
 
 <embed><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FOchranaSycka%2Fposts%2F1953329528314632&width=500" width="500" height="551" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe></embed>
 
 ## Problém s žížalami
 
-Kromě ptáků současný způsob hospodaření nepřeje ani bezobratlým, zejména žížalám a hmyzu. Zejména tyto dvě skupiny hrají v ptačím jídelníčku značnou roli. Žížaly jsou podstatné hlavně proto, že jsou k dispozici prakticky po celý rok (kromě období, kdy je země zmrzlá či výrazně vyschlá). V období od března do května, kdy jsou jiné zdroje potravy omezené, žížaly už vylézají k povrchu na dosah ptákům. Proto jsou na nich do značné míry závislí havranovití, kosi a drozdi, čejky, kulíci, nebo i puštíci a poštolky. Kromě ptáků se pak na žížaly specializují i ježci nebo krtci. A mají důvod: Na dlouhodobě udržovaných pastvinách může hustota žížal činit až 200-500 jedinců na metr čtvereční, jde tak o slušnou zásobárnu kalorií.
+Kromě ptáků současný způsob hospodaření nepřeje ani bezobratlým, zejména žížalám a hmyzu. Zejména tyto dvě skupiny hrají v ptačím jídelníčku značnou roli. Žížaly jsou podstatné hlavně proto, že jsou k dispozici prakticky po celý rok (kromě období, kdy je země zmrzlá či výrazně vyschlá). V období od března do května, kdy jsou jiné zdroje potravy omezené, žížaly už vylézají k povrchu na dosah ptákům. Proto jsou na nich do značné míry závislí havranovití, kosi a drozdi, čejky, kulíci, nebo i puštíci a poštolky. 
+
+Kromě ptáků se pak na žížaly specializují i ježci nebo krtci. A mají důvod: Na dlouhodobě udržovaných pastvinách může hustota žížal činit až 200-500 jedinců na metr čtvereční, jde tak o slušnou zásobárnu kalorií.
 
 Žížaly vyžadují k životu přibližně neutrální půdu (pH 5 - 7), pokud je kyselost vyšší, žížaly nepřežijí. Dusíkatá hnojiva, která dnes nahrazují dříve užívaný hnůj, ale [půdu okyselují](https://www.blinc.com/role-nitrogen-fertilizer-soil-ph), žížaly proto z polí mizí. A nejde jen o kyselost půdy, při hospodaření se dnes často užívá rotavátor, což je stroj, který [roztočenými čepelemi kypří zemi](https://youtu.be/cY8hI8bolsU?t=41s) do hloubky okolo 20 cm. Žížaly, které se zdržují méně než poloviční vzdálenosti, tak obvykle nepřežijí.
 
-V rámci hospodaření také často dochází k odvodňování polí, na podmáčených místech obvykle hospodářské plodiny špatně prospívají a navíc podmoklá místa komplikují práci zemědělské technice, na meliorovaném pozemku je tak možné každý rok začít hospodařit o něco dříve, netřeba čekat, až pole po zimě uschne. V letních jsou pak už mají plodiny vzrostlé kořeny a mohou čerpat vláhu z větší hloubky, nedostatek vody na povrchu tak zemědělcům nevadí. Polní ptáci ale ztvrdlou krustu zobákem neprorazí, takže se nedostanou k potravě pod povrchem, navíc jim chybí i voda samotná.
+V rámci hospodaření také často dochází k odvodňování polí, na podmáčených místech obvykle hospodářské plodiny špatně prospívají a navíc podmoklá místa komplikují práci zemědělské technice, na meliorovaném pozemku je tak možné každý rok začít hospodařit o něco dříve, netřeba čekat, až pole po zimě uschne. 
+
+V letních jsou pak už mají plodiny vzrostlé kořeny a mohou čerpat vláhu z větší hloubky, nedostatek vody na povrchu tak zemědělcům nevadí. Polní ptáci ale ztvrdlou krustu zobákem neprorazí, takže se nedostanou k potravě pod povrchem, navíc jim chybí i voda samotná.
 
 A z polí (a nejen odsud) mizí i hmyz. Na rozdíl od ptáků není tak dobře viditelný a mezi lidmi oblíbený, proto je sledovaný daleko méně. O to větší zájem vyvolala zpráva Krefeldského entomologického spolku, podle které z německých chráněných oblastí za poslední [tři dekády zmizelo 75 % veškerého polétavého hmyzu](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0185809). Prozatím není jasné, co je důvodem, [spekuluje se o vlivu v zemědělství užívaných pesticidů na bázi nikotinu](https://www.theguardian.com/commentisfree/2017/oct/20/insectageddon-farming-catastrophe-climate-breakdown-insect-populations).
 
@@ -82,7 +92,9 @@ I navzdory pozitivním trendům u některých druhů (například káňatům [pr
 
 Nejde ale jen o problém Česka, obdobné propady v počtu polních ptáků pozorují zejména ve "starých" zemích EU. Ve velké Británii jde podle [studie](http://onlinelibrary.wiley.com/doi/10.1046/j.1523-1739.1995.09061425.x/full) z roku 1995 o propad až na polovinu, analýza Eurostatu pak hovoří o třetinovém úbytku napříč Evropou. 
 
-__graf EU http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&pcode=tsdnr100&language=en&toolbox=data__
+<wide><div id="index_eu"></div></wide>
+
+_Ukazatel [běžných druhů ptáků](http://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&plugin=1&language=en&pcode=tsdnr100) pro vybrané státy EU_
 
 Naopak v celoevropském srovnání jsou v případě Česka vidět 90. léta, kdy se transformující zemědělství potýkalo s problémy. "Množství účinných látek pokleslo," říká k tomu Václav Zámečník, který se ochranou ptáků zemědělské krajiny zabývá v České společnosti ornitologické. V roce 1985 připadalo na jeden hektar v průměru 2,5 kg chemie, o pět let později jen 2 kilogramy.
 
@@ -94,12 +106,16 @@ Navíc po pádu režimu nebyly vyjasněné majetkové vztahy. "Chvilku se nevěd
 
 Naopak negativně se na populace ptáků dopadl vstup země do EU. "Nastoupily dotace," komentuje úbytek ptáků Zámečník. Podle něj tak získali farmáři prostředky na hnojiva a pesticidy, stejně jako si mohli dovolit výkonnější techniku. Navíc dříve často neobdělávali tu část pole, které byla podmáčená nebo jinak obtížně dostupná, což ptákům vyhovovalo. Tlak na evidenci a kontrola ze strany dotačních úřadů je ale donutil hospodařit na každém metru pozemků.
 
-Nutno říct, že evropské orgány si problém uvědomují a chystají změnu [společné zemědělské politiky](https://cs.wikipedia.org/wiki/Spole%C4%8Dn%C3%A1_zem%C4%9Bd%C4%9Blsk%C3%A1_politika): Podle návrhu evropského komisaře pro zemědělství [Phila Hoganag](https://ec.europa.eu/commission/commissioners/2014-2019/hogan_en) by dotace pro jednu farmu měly být zastropované částkou 60 resp 100 tisíc euro. Nově by tak dotace, které tvoří přibližně třetinu evropského rozpočtu (asi 59 miliard euro), měly podporovat zejména menší farmy. Naopak velké agrokolosy by o citelnou část peněz přišly. 
+Nutno říct, že evropské orgány si problém uvědomují a chystají změnu [společné zemědělské politiky](https://cs.wikipedia.org/wiki/Spole%C4%8Dn%C3%A1_zem%C4%9Bd%C4%9Blsk%C3%A1_politika): Podle návrhu evropského komisaře pro zemědělství [Phila Hoganag](https://ec.europa.eu/commission/commissioners/2014-2019/hogan_en) by dotace pro jednu farmu měly být zastropované částkou 60 resp 100 tisíc euro. Nově by tak dotace, které tvoří přibližně třetinu evropského rozpočtu (asi 59 miliard euro), měly podporovat zejména menší farmy. Naopak velké agrokolosy by o citelnou část peněz přišly.
+
+## Česko bojuje za velké
 
 Český republika spolu se Slovenskem a některými regiony východního Německa se takovému kroku ale brání. [Podle serveru Politico](https://www.politico.eu/article/central-europes-big-farms-cry-foul-over-eu-commission-funding-cuts-phil-hogan/) by Bruselem chystané zastropování dotací na jednu farmu připravilo Česko o 43 % ze současných asi 1,2 miliardy Euro.
 
 Tak razantní změna by se dotkla i některých členů vlády. Holding Agrofert, dříve patřící premiérovi v demisi Andreji Babišovi, vloni podle Politica získal 14 milionů euro (asi 355 milionů Kč). Současný ministr zemědělství [Jiří Milek](https://www.irozhlas.cz/zpravy-domov/novy-ministr-zemedelstvi-jiri-milek-koncern-usovsko-manazer-roku-profil-ministra_1712161300_mis) je zase spolumajitelem koncernu Úsovsko, ten jen v roce 2016 čerpal skrze Státní zemědělský intervenční fond dotace ve výši [přes 54 milionů korun](https://www.szif.cz/cs/seznam-prijemcu-dotaci?ji=1000026345&opatr=&year=2016&portalAction=detail).
 
-O tom, že dotování největších krajině neprospívá, hovoří i Asociace soukromého zemědělství České republiky, podle kterého jsou velké lány ohrožené erozí a těžká technika půdu dále znehodnocuje. "Zásadním řešením je zvýšení pestrosti a členitosti krajiny a zmenšení nepřerušovaných půdních bloků," uvádí v tiskové zprávě. "Z našeho pohledu je zastropování jednoznačně v zájmu nejen zemědělství, ale i celého českého venkova a všech obyvatel," napsala serveru iROZHLAS tisková mluvčí asociace.
+O tom, že dotování největších krajině neprospívá, hovoří i Asociace soukromého zemědělství České republiky, podle kterého jsou velké lány ohrožené erozí a těžká technika půdu dále znehodnocuje. 
+
+"Zásadním řešením je zvýšení pestrosti a členitosti krajiny a zmenšení nepřerušovaných půdních bloků," uvádí v tiskové zprávě. "Z našeho pohledu je zastropování jednoznačně v zájmu nejen zemědělství, ale i celého českého venkova a všech obyvatel," napsala serveru iROZHLAS tisková mluvčí asociace.
 
 Konečné slovo budou mít evropské orgány, stanovisko Komise by mělo přijít v polovině tohoto roku, pak rozhodne Evropský parlament. Nicméně už nyní přichází z Bruselu signály, že v reakci na kritiku chystaných opatření by jednotlivé státy mohly dostat volnější ruku v tom, jak s dotacemi na svém území naloží. V Česku by to pravděpodobně vedlo ke konzervaci současného stavu.

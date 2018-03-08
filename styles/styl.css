@@ -2,7 +2,14 @@ p > img {
     max-width: 100%;
 }
 
-.ig {
+iframe {
     max-width: 100%;
+}
+
+.ig {
     max-height: 80vh;
+}
+
+#index_eu {
+    min-height: 370px;
 }
