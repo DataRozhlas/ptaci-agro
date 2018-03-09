@@ -8,23 +8,29 @@ styles: []
 libraries: [highcharts, jquery] #jquery, jquery-csv, d3, highcharts, datatables
 options: [] #wide, noheader (, nopic)
 ---
-<left>
-	<p>
-	<b>Proč zrovna ptáci</b>
-	</p><p>
-	Početnost ptáků považují vědci za vhodný ukazatel rozmanitosti druhů v přírodě. Ptáci poměrně rychle reagují na změny prostředí, jejich biologie je dobře prozkoumaná, a navíc jsou oblíbení mezi veřejností: Lidem na jejich osudu často záleží (stačí se rozhlédnout, na kolika balkónech jsou krmítka) a najde se tedy dostatek amatérských ornitologů, kteří mohou pomoci s jejich sledováním. Proto je tzv. indikátor ptáků zemědělské krajiny používaný jako jeden z oficiálních <a target="_blank" href="https://www.eea.europa.eu/data-and-maps/indicators/abundance-and-distribution-of-selected-species-6/assessment">ukazatelů druhové rozmanitosti v EU</a>.
-	</p>
-</left>
-
 V české zemědělské krajině žije [o třetinu méně ptáků než v roce 1982](https://issar.cenia.cz/prehled-klicovych-indikatoru-podle-hlavnich-temat/priroda/indikator-beznych-druhu-ptaku/). Nejvíc ubylo koroptví polních, lindušek lučních nebo skřivanů polních.
 
+<embed><div id="ubytek_cr"></div></embed>
+
 Podle ornitologů za to mohou změny v zemědělství, které klade stále větší důraz na zvyšování výnosů za každou cenu: ptáky nehubí jen rychlejší a výkonnější kombajny, ale i vyšší dávky chemikálií, zvětšování ploch osazených jediným druhem rostlin a v konečném důsledku i zemědělské dotace, které takové podnikání podporují.
+
+<left>
+    <p>
+    <b>Proč zrovna ptáci</b>
+    </p><p>
+    Početnost ptáků považují vědci za vhodný ukazatel rozmanitosti druhů v přírodě. Ptáci poměrně rychle reagují na změny prostředí, jejich biologie je dobře prozkoumaná, a navíc jsou oblíbení mezi veřejností: Lidem na jejich osudu často záleží (stačí se rozhlédnout, na kolika balkónech jsou krmítka) a najde se tedy dostatek amatérských ornitologů, kteří mohou pomoci s jejich sledováním. Proto je tzv. indikátor ptáků zemědělské krajiny používaný jako jeden z oficiálních <a target="_blank" href="https://www.eea.europa.eu/data-and-maps/indicators/abundance-and-distribution-of-selected-species-6/assessment">ukazatelů druhové rozmanitosti v EU</a>.
+    </p>
+</left>
 
 "Nejhorší dopad na evropskou avifaunu (ptactvo - pozn. red) se předpokládá v případě, že se bude zvyšovat intenzita zemědělství ve střední a východní Evropě,“ varovali loni v listopadu členové České společnosti ornitologické ve [studii pro ministerstvo zemědělství](https://dev.datarozhlas.cz/ptaci-agro/media/IPZK_2017.pdf). 
 
 "Intenzifikace zemědělství, zejména výnos obilovin, dokáže sám o sobě vysvětlit 30 % změn v početnosti populací ptáků," píše v knize [Farming and Birds](https://www.nhbs.com/farming-and-birds-book) britský výzkumník Ian Newton a vysvětluje, že nejde o tuny obilí jako takové – jeho větší výnosy jsou indikátorem zvyšování dávek průmyslově vyráběných hnojiv a přípravků na ochranu rostlin před škodlivými organismy, regulátorů růstu, častější využívání výkonnějších zemědělských strojů a zavlažovacích systémů, upřednostňování velkých monokulturních lánů, či pěstování geneticky modifikovaných plodin.
 
-Důvodů je tedy pravděpodobně několik, ale obecně se dají shrnout jako efektivnější zemědělství. Lepší a rychlejší stroje spolu s účinějšími chemickými prostředky postupně vytlačují z polí vše kromě pěstovaných plodin.
+<embed><div id="obiloviny_cz"></div></embed>
+
+_Výnosy obilovin dle [databáze Světové banky](https://data.worldbank.org/indicator/AG.YLD.CREL.KG?locations=CZ)_
+
+Důvodů pro úbytek ptáků zemědělské krajiny je tedy pravděpodobně několik, ale obecně se dají shrnout jako efektivnější zemědělství. Lepší a rychlejší stroje spolu s účinějšími chemickými prostředky postupně vytlačují z polí vše kromě pěstovaných plodin.
 
 ## Větší není pro každého lepší
 
@@ -109,7 +115,11 @@ Evropské orgány si problém uvědomují a chystají změnu [společné zeměd�
 
 Česká republika spolu se Slovenskem a některými regiony východního Německa se takovému kroku ale brání. [Podle serveru Politico](https://www.politico.eu/article/central-europes-big-farms-cry-foul-over-eu-commission-funding-cuts-phil-hogan/) by Bruselem chystané zastropování dotací na jednu farmu připravilo Česko o 43 % ze současných asi 1,2 miliardy Euro.
 
-Tak razantní změna by se dotkla i některých členů vlády. Holding Agrofert, dříve patřící premiérovi v demisi Andreji Babišovi, vloni podle Politica získal na agrodotacích 14 milionů euro (asi 355 milionů Kč). Současný ministr zemědělství [Jiří Milek](https://www.irozhlas.cz/zpravy-domov/novy-ministr-zemedelstvi-jiri-milek-koncern-usovsko-manazer-roku-profil-ministra_1712161300_mis) je zase spolumajitelem koncernu Úsovsko, ten jen v roce 2016 čerpal skrze Státní zemědělský intervenční fond dotace ve výši [přes 54 milionů korun](https://www.szif.cz/cs/seznam-prijemcu-dotaci?ji=1000026345&opatr=&year=2016&portalAction=detail).
+"My to jednoznačně odmítáme," řekl serveru iROZHLAS analytik Jiří Felčárek z Agrární komory ČR. "S ohledem na strukturu českého zemědělství by to bylo diskriminující a brzdilo by to další rozvoj celého sektoru," dodal. Podle něj mají velké farmy větší efektivitu práce a díky tomu dosahují značných úspor, což představuje výhodu oproti "starým" zemím EU.
+
+"Střední a velké podniky mají určitou sílu, aby zaváděly moderní poznatky v zemědělství, principy precizního zemědělství," vysvětlil Felčárek, jak komora navrhuje řešit negativní dopady hospodaření na krajinu. Nejnovější technologie totiž ve výsledku snižují množství používaných hnojiv a pesticidů, uzavírá.
+
+Razantní změna financování by se dotkla i některých členů vlády. Holding Agrofert, dříve patřící premiérovi v demisi Andreji Babišovi, vloni podle Politica získal na agrodotacích 14 milionů euro (asi 355 milionů Kč). Současný ministr zemědělství [Jiří Milek](https://www.irozhlas.cz/zpravy-domov/novy-ministr-zemedelstvi-jiri-milek-koncern-usovsko-manazer-roku-profil-ministra_1712161300_mis) je zase předsedou představenstva koncernu Úsovsko, ten jen v roce 2016 čerpal skrze Státní zemědělský intervenční fond dotace ve výši [přes 54 milionů korun](https://www.szif.cz/cs/seznam-prijemcu-dotaci?ji=1000026345&opatr=&year=2016&portalAction=detail).
 
 O tom, že dotování největších krajině neprospívá, hovoří i Asociace soukromého zemědělství České republiky, podle které jsou velké lány ohrožené erozí a těžká technika půdu dále znehodnocuje.
 
