@@ -22,7 +22,7 @@ Podle ornitologů za to mohou změny v zemědělství, které klade stále vět�
     </p>
 </left>
 
-„Nejhorší dopad na evropskou avifaunu (ptactvo - pozn. red) se předpokládá v případě, že se bude zvyšovat intenzita zemědělství ve střední a východní Evropě,“ varovali loni v listopadu členové České společnosti ornitologické ve [studii pro ministerstvo zemědělství](https://dev.datarozhlas.cz/ptaci-agro/media/IPZK_2017.pdf). 
+„Nejhorší dopad na evropskou avifaunu (ptactvo - pozn. red.) se předpokládá v případě, že se bude zvyšovat intenzita zemědělství ve střední a východní Evropě,“ varovali loni v listopadu členové České společnosti ornitologické ve [studii pro ministerstvo zemědělství](https://dev.datarozhlas.cz/ptaci-agro/media/IPZK_2017.pdf). 
 
 „Intenzifikace zemědělství, zejména výnos obilovin, dokáže sám o sobě vysvětlit 30 % změn v početnosti populací ptáků,“ píše v knize [Farming and Birds](https://www.nhbs.com/farming-and-birds-book) britský výzkumník Ian Newton a vysvětluje, že nejde o tuny obilí jako takové – jeho větší výnosy jsou indikátorem zvyšování dávek průmyslově vyráběných hnojiv a přípravků na ochranu rostlin před škodlivými organismy, regulátorů růstu, častější využívání výkonnějších zemědělských strojů a zavlažovacích systémů, upřednostňování velkých monokulturních lánů či pěstování geneticky modifikovaných plodin.
 
