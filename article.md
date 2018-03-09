@@ -1,5 +1,5 @@
 title: "Intenzivní zemědělství ničí českou přírodu, mnohé druhy ptáků na polích nepřežijí"
-perex: "Z obrovských lánů hustě osetých jediným druhem rostlin mizí ptáci. Někteří na polích ošetřených průmyslovými hnojivy nenajdou dost potravy, jiní padnou za oběť zemědělské technice. Také proto chce EU zastropovat dotace, aby podpořily spíš menší zemědělce a větší různorodost krajiny. V Česku naráží na odpor agrokolosů, které obhospodařují většinu půdy."
+perex: "Z obrovských lánů hustě osetých jediným druhem rostlin mizí ptáci. Někteří na polích ošetřených průmyslovými hnojivy nenajdou dost potravy, jiní padnou za oběť zemědělské technice. Také proto chce EU zastropovat dotace, aby podpořily spíš menší zemědělce a větší různorodost krajiny. V Česku naráží na odpor agrokolosů."
 authors: ["Jan Cibulka"]
 published: "12. března 2018"
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/crex_crex_beachy_hea_180307-140928_cib.jpg?itok=D2rra6cg
