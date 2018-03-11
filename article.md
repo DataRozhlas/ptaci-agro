@@ -1,5 +1,5 @@
 title: "Intenzivní zemědělství ničí českou přírodu, mnohé druhy ptáků na polích nepřežijí"
-perex: "Z obrovských lánů hustě osetých jediným druhem rostlin mizí ptáci. Někteří na polích ošetřených průmyslovými hnojivy nenajdou dost potravy, jiní padnou za oběť zemědělské technice. Také proto chce EU zastropovat dotace, aby podpořily spíš menší zemědělce a větší různorodost krajiny. V Česku naráží na odpor agrokolosů."
+perex: "Z obrovských lánů hustě osetých jediným druhem rostlin mizí ptáci. Někteří na polích ošetřených průmyslovými hnojivy a pesticidy nenajdou dost potravy, jiní padnou za oběť zemědělské technice. Také proto chce EU zastropovat dotace, aby podpořily spíš menší zemědělce a větší různorodost krajiny. V Česku naráží na odpor velkých farem."
 authors: ["Jan Cibulka"]
 published: "12. března 2018"
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/crex_crex_beachy_hea_180307-140928_cib.jpg?itok=D2rra6cg
@@ -24,7 +24,9 @@ Podle ornitologů za to mohou změny v zemědělství, které klade stále vět�
 
 „Nejhorší dopad na evropskou avifaunu (ptactvo - pozn. red.) se předpokládá v případě, že se bude zvyšovat intenzita zemědělství ve střední a východní Evropě,“ varovali loni v listopadu členové České společnosti ornitologické ve [studii pro ministerstvo zemědělství](https://dev.datarozhlas.cz/ptaci-agro/media/IPZK_2017.pdf). 
 
-„Intenzifikace zemědělství, zejména výnos obilovin, dokáže sám o sobě vysvětlit 30 % změn v početnosti populací ptáků,“ píše v knize [Farming and Birds](https://www.nhbs.com/farming-and-birds-book) britský výzkumník Ian Newton a vysvětluje, že nejde o tuny obilí jako takové – jeho větší výnosy jsou indikátorem zvyšování dávek průmyslově vyráběných hnojiv a přípravků na ochranu rostlin před škodlivými organismy, regulátorů růstu, častější využívání výkonnějších zemědělských strojů a zavlažovacích systémů, upřednostňování velkých monokulturních lánů či pěstování geneticky modifikovaných plodin.
+„Intenzifikace zemědělství, zejména výnos obilovin, dokáže sám o sobě vysvětlit 30 % změn v početnosti populací ptáků,“ [říká studie](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1087596/) z roku 2002.
+
+Podle britského ornitologa a autora knihy [Farming and Birds](https://www.nhbs.com/farming-and-birds-book) Iana Newtona nejde jen o tuny obilí jako takové – jeho větší výnosy jsou indikátorem zvyšování dávek průmyslově vyráběných hnojiv a přípravků na ochranu rostlin před škodlivými organismy, regulátorů růstu, častější využívání výkonnějších zemědělských strojů a zavlažovacích systémů, a upřednostňování velkých monokulturních lánů či [pěstování geneticky modifikovaných plodin](https://www.ncbi.nlm.nih.gov/pubmed/10968791).
 
 <embed><div id="obiloviny_cz"></div></embed>
 
@@ -36,26 +38,26 @@ Důvodů pro úbytek ptáků zemědělské krajiny je tedy pravděpodobně něko
 
 Moderní sekačky, používané zemědělci třeba ke sklizni krmné vojtěšky nebo obilí, zvládnou sekat rychlostí přes 20 km/h, šířka žací lišty pak může být [až 12 metrů](http://www.deere.com/en_US/docs/html/brochures/publication.html?id=9557a838#12). Tak rychlému stroji s velkým dosahem těžko uteče zvíře, které se v poli schovává, často i s mláďaty.
 
-Právě případy posekaných zajíců a srnek, jejichž počet odhadují na víc než 60 tisíc ročně, vedly ochránce zvířat ke spuštění kampaně [Stop sečení srnčat](http://www.stopsecenisrncat.cz/petice/). Petici na webu podepsalo víc než pět tisíc lidí, následně ministerstvo zemědělství spolu s Českou zemědělskou univerzitou spustilo portál [Senoseč](http://senosec.czu.cz/). Na něm zemědělci zveřejňují, kde a kdy budou sekat, a myslivci spolu s dobrovolníky zvěř před sečí vyženou.
+Právě případy posekaných zajíců a srnek, jejichž počet odhadují na víc než 60 tisíc ročně, vedly ochránce zvířat ke spuštění kampaně [Stop sečení srnčat](http://www.stopsecenisrncat.cz/petice/). Petici na webu podepsalo víc než pět tisíc lidí, následně ministerstvo zemědělství spolu s Českou zemědělskou univerzitou spustilo portál [Senoseč](http://senosec.czu.cz/). Na něm zemědělci zveřejňují, kde a kdy budou sekat, a myslivci spolu s dobrovolníky se snaží zvířata vyhnat.
 
 <!-- video sekačky od JD -->
 <embed><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/a86kmZypehA?start=59&end=72" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></embed>
 
 Podobná opatření ale fungují pouze u větších zvířat, například [chřástal polní](https://cs.wikipedia.org/wiki/Ch%C5%99%C3%A1stal_poln%C3%AD) je na louce či na poli závislý a nemá kam utéct. Obvykle má na poli hnízdo, později pak samice při hledání potravy vodí mláďata mezi stonky rostlin. Při vyrušení se kuřata snaží schovat, dost daleko ale neutečou. A pokud je žací lišta dostatečně rychlá, nestihne to ani dospělá samice. 
 
-Navíc se v posledních desetiletích tráva používá spíše k výrobě siláže než sena, louky se proto sečou již v červnu, kdy chřástalové hnízdí. A jelikož časově nejúspornější je sekat od krajů do středu, sekačka obvykle nažene všechny ptáky do středu louky, kde je následně při posledním obratu zlikviduje.
+Navíc se v posledních desetiletích tráva používá spíše k výrobě siláže než sena, louky se proto sečou v závislosti na nadmořské výšce již od května, kdy chřástalové hnízdí. A jelikož časově nejúspornější je sekat od krajů do středu, sekačka obvykle nažene všechny ptáky do středu louky, kde je následně při posledním obratu zlikviduje.
 
 V obdobné situaci je i [čejka chocholatá](https://cs.wikipedia.org/wiki/%C4%8Cejka_chocholat%C3%A1), jejíž počty jsou nyní na desetině stavu před 35 lety.
 
 <embed>![početnost čejky chocholaté dle JPSP](https://d3j9yv90yhtw2y.cloudfront.net/taxon_index.php?taxon=487)</embed>
 
-Výkon a rychlost zemědělských strojů zemědělce motivuje, aby pracovali na co největších polích: zastavováním práce a přejížděním mezi malými políčky ztrácejí čas. Česko v tomto ohledu vede, podle [statistiky Eurostatu](http://ec.europa.eu/eurostat/statistics-explained/index.php/Farm_structure_statistics) zde na jednu farmu připadá v průměru 133 hektarů půdy. Celoevropský průměr je 16 hektarů.
+Výkon a rychlost zemědělských strojů zemědělce motivuje, aby pracovali na co největších polích: zastavováním práce a přejížděním mezi malými políčky ztrácejí čas. [Podle dat](https://dev.datarozhlas.cz/ptaci-agro/media/DPB.XLSB), které serveru iROZHLAS.cz poskytlo ministerstvo zemědělství, se v posledních deseti letech velikost tuzemského půdního bloku pohybovala okolo 10 ha. Pro srovnání, celoevropský průměr na celou farmu je 16 ha. Česko vede i do velikosti farem, podle [statistiky Eurostatu](http://ec.europa.eu/eurostat/statistics-explained/index.php/Farm_structure_statistics) zde na jednu farmu připadá v průměru 133 hektarů půdy.
 
 _Rozdíl mezi krajinou v 50. letech a dnes, například v blízkosti vaší obce, si můžete prohlédnout na srovnávací mapě._
 
 <wide><iframe src="https://samizdat.cz/data/suburbanizace-mapa/www/#50.0783,14.2538,8" class="ig" scrolling="no" style="margin:10px 0" width="1000" height="600" frameborder="0"></iframe></wide>
 
-Také nedostatek keřů a neposekaných mezí pociťují velmi často ptáci. Přicházejí o úkryt a místo, kde mohou hnízdit. Proto dlouhodobě ubývají například [strnad obecný](https://cs.wikipedia.org/wiki/Strnad_obecn%C3%BD) nebo dříve naprosto běžný [skřivan polní](https://cs.wikipedia.org/wiki/Sk%C5%99ivan_poln%C3%AD). Početnost druhého jmenovaného se [od roku 1982 snížila o 40 %](http://jpsp.birds.cz/vysledky.php?taxon=685) a stále klesá. Ještě hůř je na tom [koroptev polní](https://cs.wikipedia.org/wiki/Koroptev_poln%C3%AD), její počty se za stejnou dobu zmenšily od 90 % a nyní [bojuje o přežití](http://www.koroptvicky.estranky.cz/).
+Také nedostatek keřů a neposekaných mezí pociťují velmi často ptáci. Přicházejí o úkryt a místo, kde mohou hnízdit. Proto dlouhodobě ubývají například [strnad obecný](https://cs.wikipedia.org/wiki/Strnad_obecn%C3%BD), tomu pravděpodobně chybí i dostatek potravy. Druhé zmíněné se týká i dříve běžného [skřivana polního](https://cs.wikipedia.org/wiki/Sk%C5%99ivan_poln%C3%AD), velká pole mu (i kvůli chemickému ošetření) nabízejí méně dostupné potravy. Početnost skřivana se [od roku 1982 snížila o 40 %](http://jpsp.birds.cz/vysledky.php?taxon=685) a stále klesá. Ještě hůř je na tom [koroptev polní](https://cs.wikipedia.org/wiki/Koroptev_poln%C3%AD), její počty se za stejnou dobu zmenšily od 90 % a nyní [bojuje o přežití](http://www.koroptvicky.estranky.cz/).
 
 <embed>![početnost koroptve polní dle JPSP](https://d3j9yv90yhtw2y.cloudfront.net/taxon_index.php?taxon=447)</embed>
 
@@ -89,23 +91,21 @@ _Početnost husy velké podle [Jednotného programu sčítání ptáků](http://
 
 Z rozsáhlých řepkových lánů pak profitují divoká prasata. „Divočák tam má klid, vodu i potravu. Navíc nejsou zachována políčka pro možné naháňky, takže divočáci v těchto polích nejsou vidět,“ [vysvětlil pro kolínský Deník](https://kolinsky.denik.cz/zpravy_region/divoka-prasata-jsou-premnozena-muze-za-to-kukurice-a-repka-20170309.html) předseda Okresního mysliveckého spolku Kutná Hora František Barták.
 
-I navzdory pozitivním trendům u některých druhů (například káňatům [prospěl](http://jpsp.birds.cz/vysledky.php?taxon=398) zákaz některých jedů na hlodavce) je ale celková bilance záporná, ptáků – a pravděpodobně tedy i jiných druhů – v zemědělské krajině rychlým tempem ubývá.
+I navzdory pozitivním trendům u některých druhů je ale celková bilance záporná, ptáků – a pravděpodobně tedy i jiných druhů – v zemědělské krajině rychlým tempem ubývá.
 
 ## Celoevropský problém
 
-Nejde jen o problém Česka, obdobné propady v počtu polních ptáků pozorují zejména ve „starých“ zemích EU. Ve velké Británii jde podle [studie](http://onlinelibrary.wiley.com/doi/10.1046/j.1523-1739.1995.09061425.x/full) z roku 1995 o propad až na polovinu, analýza Eurostatu pak hovoří o třetinovém úbytku napříč Evropou. 
+Nejde jen o problém Česka, obdobné propady v počtu polních ptáků pozorují zejména ve „starých“ zemích EU. Ve velké Británii jde podle [studie](http://onlinelibrary.wiley.com/doi/10.1046/j.1523-1739.1995.09061425.x/full) z roku 1995 o propad až na polovinu, analýza Eurostatu pak hovoří o třetinovém úbytku napříč Evropou.
 
 <wide><div id="index_eu"></div></wide>
 
 _Ukazatel [běžných druhů ptáků](http://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&plugin=1&language=en&pcode=tsdnr100) pro vybrané státy EU_
 
-Naopak v celoevropském srovnání jsou v případě Česka vidět 90. léta, kdy se transformující zemědělství potýkalo s problémy. „Množství účinných látek pokleslo,“ říká k tomu Václav Zámečník, který se ochranou ptáků zemědělské krajiny zabývá v České společnosti ornitologické. V roce 1985 připadalo na jeden hektar v průměru 2,5 kg chemie, o pět let později jen 2 kilogramy.
+Naopak v celoevropském srovnání jsou v případě Česka vidět 90. léta, kdy se transformující zemědělství potýkalo s problémy. „Mimo jiné se snížilo množství užívaných pesticidů, ale zejména došlo vlivem změn ve vlastnických a uživatelských poměrech ke krátkodobému zvýšení heterogenity (pestrosti, pozn. red.) krajiny,“ říká k tomu Václav Zámečník, který se ochranou ptáků zemědělské krajiny zabývá v České společnosti ornitologické. V roce 1985 připadalo na jeden hektar v průměru 2,5 kg chemie, o pět let později jen 2 kilogramy.
 
 <embed>![množství chemických látek v zemědělství](https://dev.datarozhlas.cz/ptaci-agro/media/chem_latky_cr.jpg)</embed>
 
 Zdroj: _[Metodická příručka pro praktickou ochranu ptáků v zemědělské krajině](https://dev.datarozhlas.cz/ptaci-agro/media/prirucka_ochrany_ptaku.pdf): metodika AOPK ČR._ Praha: Agentura ochrany přírody a krajiny ČR, 2013, s. 10. ISBN 978-80-87457-81-8.
-
-Navíc po pádu režimu nebyly vyjasněné majetkové vztahy. „Chvilku se nevědělo, čí pole jsou a některá začala zarůstat,“ na což podle ornitologa některé druhy ptáků rychle zareagovaly.
 
 Naopak negativně na populace ptáků dopadl vstup země do EU. „Nastoupily dotace,“ komentuje úbytek ptáků Zámečník. Podle něj tak získali farmáři prostředky na hnojiva a pesticidy, stejně jako si mohli dovolit výkonnější techniku. Navíc dříve často neobdělávali tu část pole, která byla podmáčená nebo jinak obtížně dostupná, což ptákům vyhovovalo. Tlak na evidenci a kontrola ze strany dotačních úřadů je ale donutil hospodařit na každém metru pozemků.
 
@@ -125,4 +125,4 @@ O tom, že dotování největších krajině neprospívá, hovoří Asociace sou
 
 Razantní změna financování by se dotkla i některých členů vlády. Holding Agrofert, dříve patřící premiérovi v demisi Andreji Babišovi, vloni podle Politica získal na agrodotacích 14 milionů eur (asi 355 milionů Kč). Současný ministr zemědělství [Jiří Milek](https://www.irozhlas.cz/zpravy-domov/novy-ministr-zemedelstvi-jiri-milek-koncern-usovsko-manazer-roku-profil-ministra_1712161300_mis) je zase předsedou představenstva koncernu Úsovsko, ten jen v roce 2016 čerpal skrze Státní zemědělský intervenční fond dotace ve výši [přes 54 milionů korun](https://www.szif.cz/cs/seznam-prijemcu-dotaci?ji=1000026345&opatr=&year=2016&portalAction=detail).
 
-Konečné slovo budou mít evropské orgány, stanovisko Komise by mělo přijít v polovině tohoto roku, pak rozhodne Evropský parlament. Nicméně už nyní přichází z Bruselu signály, že v reakci na kritiku chystaných opatření by jednotlivé státy mohly dostat volnější ruku v tom, jak s dotacemi na svém území naloží. V Česku by to pravděpodobně vedlo ke konzervaci současného stavu.
+Konečné slovo budou mít evropské orgány, stanovisko Komise by mělo přijít v polovině tohoto roku, pak rozhodne Evropský parlament. Nicméně už nyní přichází z Bruselu signály, že v reakci na kritiku chystaných opatření by jednotlivé státy mohly dostat volnější ruku v tom, jak s dotacemi na svém území naloží. V Česku by to pravděpodobně vedlo ke konzervaci či dalšímu zhoršení současného stavu.
