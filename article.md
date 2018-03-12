@@ -38,7 +38,7 @@ Důvodů pro úbytek ptáků zemědělské krajiny je tedy pravděpodobně něko
 
 Moderní sekačky, používané zemědělci třeba ke sklizni krmné vojtěšky nebo obilí, zvládnou sekat rychlostí přes 20 km/h, šířka žací lišty pak může být [až 12 metrů](http://www.deere.com/en_US/docs/html/brochures/publication.html?id=9557a838#12). Tak rychlému stroji s velkým dosahem těžko uteče zvíře, které se v poli schovává, často i s mláďaty.
 
-Právě případy posekaných zajíců a srnek, jejichž počet odhadují na víc než 60 tisíc ročně, vedly ochránce zvířat ke spuštění kampaně [Stop sečení srnčat](http://www.stopsecenisrncat.cz/petice/). Petici na webu podepsalo víc než pět tisíc lidí, následně ministerstvo zemědělství spolu s Českou zemědělskou univerzitou spustilo portál [Senoseč](http://senosec.czu.cz/). Na něm zemědělci zveřejňují, kde a kdy budou sekat, a myslivci spolu s dobrovolníky se snaží zvířata vyhnat.
+Právě případy posekaných zajíců a srnek, jejichž počet odhadují na víc než 60 tisíc ročně, vedly ochránce zvířat ke spuštění kampaně [Stop sečení srnčat](http://www.stopsecenisrncat.cz/petice/). Petici na webu podepsalo víc než pět tisíc lidí, následně ministerstvo životního prostředí spolu s Českou zemědělskou univerzitou spustilo portál [Senoseč](http://senosec.czu.cz/). Na něm zemědělci zveřejňují, kde a kdy budou sekat, a myslivci spolu s dobrovolníky se snaží zvířata vyhnat.
 
 <!-- video sekačky od JD -->
 <embed><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/a86kmZypehA?start=59&end=72" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></embed>
