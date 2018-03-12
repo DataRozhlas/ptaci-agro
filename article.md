@@ -51,11 +51,15 @@ V obdobné situaci je i [čejka chocholatá](https://cs.wikipedia.org/wiki/%C4%8
 
 <embed>![početnost čejky chocholaté dle JPSP](https://d3j9yv90yhtw2y.cloudfront.net/taxon_index.php?taxon=487)</embed>
 
-Výkon a rychlost zemědělských strojů zemědělce motivuje, aby pracovali na co největších polích: zastavováním práce a přejížděním mezi malými políčky ztrácejí čas. [Podle dat](https://dev.datarozhlas.cz/ptaci-agro/media/DPB.XLSB), které serveru iROZHLAS.cz poskytlo ministerstvo zemědělství, se v posledních deseti letech velikost tuzemského půdního bloku pohybovala okolo 10 ha. Pro srovnání, celoevropský průměr na celou farmu je 16 ha. Česko vede i do velikosti farem, podle [statistiky Eurostatu](http://ec.europa.eu/eurostat/statistics-explained/index.php/Farm_structure_statistics) zde na jednu farmu připadá v průměru 133 hektarů půdy.
+Výkon a rychlost zemědělských strojů zemědělce motivuje, aby pracovali na co největších polích: zastavováním práce a přejížděním mezi malými políčky ztrácejí čas. [Podle dat](https://dev.datarozhlas.cz/ptaci-agro/media/DPB.XLSB), které serveru iROZHLAS.cz poskytlo ministerstvo zemědělství, se v posledních deseti letech velikost tuzemského půdního bloku (de facto pole) pohybovala okolo 10 ha. Pro srovnání, v Evropě na součet polí pro celou farmu připadá v průměru 16 ha. Česko vede i do velikosti samotných farem, podle [statistiky Eurostatu](http://ec.europa.eu/eurostat/statistics-explained/index.php/Farm_structure_statistics) zde na jednu farmu připadá v průměru 133 hektarů půdy.
 
 _Rozdíl mezi krajinou v 50. letech a dnes, například v blízkosti vaší obce, si můžete prohlédnout na srovnávací mapě._
 
 <wide><iframe src="https://samizdat.cz/data/suburbanizace-mapa/www/#50.0783,14.2538,8" class="ig" scrolling="no" style="margin:10px 0" width="1000" height="600" frameborder="0"></iframe></wide>
+
+_Rovněž můžete podívat na [velikost polí na Česko-Rakouském pomezí](https://en.mapy.cz/s/2ssVV)._
+
+
 
 Také nedostatek keřů a neposekaných mezí pociťují velmi často ptáci. Přicházejí o úkryt a místo, kde mohou hnízdit. Proto dlouhodobě ubývají například [strnad obecný](https://cs.wikipedia.org/wiki/Strnad_obecn%C3%BD), tomu pravděpodobně chybí i dostatek potravy. Druhé zmíněné se týká i dříve běžného [skřivana polního](https://cs.wikipedia.org/wiki/Sk%C5%99ivan_poln%C3%AD), velká pole mu (i kvůli chemickému ošetření) nabízejí méně dostupné potravy. Početnost skřivana se [od roku 1982 snížila o 40 %](http://jpsp.birds.cz/vysledky.php?taxon=685) a stále klesá. Ještě hůř je na tom [koroptev polní](https://cs.wikipedia.org/wiki/Koroptev_poln%C3%AD), její počty se za stejnou dobu zmenšily od 90 % a nyní [bojuje o přežití](http://www.koroptvicky.estranky.cz/).
 
